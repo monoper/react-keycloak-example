@@ -29,7 +29,7 @@ This is just a handy reference for a simple example of using react & keycloak wi
 ## Additional Information
 
 - I used http://localhost:8889 for keycloak as something else on my system was using 8080 and I didnt want to change it. It can be changed in the .env file if you want
-- 
+- The react app has no styling and extremely basic as this is just meant to be a very simple example.
 
 
 ## Resources used to make this example
