@@ -1,5 +1,7 @@
 import React from 'react';
+import logo from './logo.svg';
 import './App.css';
+import { useAuth } from 'react-oidc-context';
 import { useKeycloak } from '@react-keycloak/web';
 
 export const App = () => {
